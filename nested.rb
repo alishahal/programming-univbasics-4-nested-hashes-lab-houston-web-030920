@@ -57,18 +57,6 @@ end
 
 def adding_matz
 
-        :dennis_ritchie => {	        :dennis_ritchie => {
-          :known_for => "Unix",	          :known_for => "Unix",
-          :languages => ["C"]	          :languages => ["C"]
-        },
-          :yukihiro_matsumoto => {
-          :known_for => "Ruby",
-          :languages => ["LISP", "C"]
-        }	        }
-     }	     
- 		  
- 	}
-
 	programmer_hash = 
  		{
         :grace_hopper => {

@@ -61,9 +61,9 @@ programmer_hash =
  		{	 		
  		  {:grace_hopper => {	          
  		    :grace_hopper => {
-        :known_for => "COBOL",	          :
-         known_for => "COBOL",
-          :languages => ["COBOL", "FORTRAN"]	          :languages => ["COBOL", "FORTRAN"]
+        :known_for => "COBOL",	     
+        :languages => ["COBOL", "FORTRAN"]	          
+        
         },	        },
 @@ -77,10 +78,12 @@ def adding_matz
         :dennis_ritchie => {	        :dennis_ritchie => {
